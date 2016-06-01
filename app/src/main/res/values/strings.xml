@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">MyConcert</string>
+    <string name="app_name">MusicList</string>
     <string name="register">Registration</string>
     <string name="name">Name:</string>
     <string name="username">Username:</string>
